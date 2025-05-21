@@ -3,16 +3,21 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f8f9fa;
+    background-image: url('image/123.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+   
 }
 
 h1, h2 {
-    color: #333;
+    color: #4CAF50;
 }
 
 h1 {
@@ -61,6 +66,8 @@ label {
     font-weight: bold;
     display: block;
     margin-top: 10px;
+    color: #4CAF50;;
+    
 }
 
 input[type="text"],

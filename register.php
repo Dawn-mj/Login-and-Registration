@@ -109,13 +109,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 .div1 {
     margin: auto;
     width: 50%;
-    background-color: #57a2df;
+    background-color:transparent;
     border-radius: 30px;
     padding: 30px;
     margin-top: 5%;
 }
 form{
-    background-color: #57a2df;
+    background-color:transparent;
+    
     
 }
 </style>
